@@ -18,6 +18,12 @@ public class MainActivity extends BaseActivity {
     @Override
     public void initData(Bundle savedInstanceState) {
         qq.setText("rrr");
+        findView();
+    }
+
+    private void findView() {
+
+
     }
 
     @Override
